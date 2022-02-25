@@ -1,0 +1,25 @@
+
+#urlBox{
+    
+    padding-left: 10px;
+    border-radius: 20px;
+    width: 200px;
+    height: 25px;
+}
+
+#buttons{
+    padding-top: 10px;
+}
+
+button{
+    border-style: solid;
+    margin-top: 1%;
+    background-color: whitesmoke;
+    align-self: center;
+    width: 100px;
+    height: 25px;
+    border-style:solid;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:bold;
+    border-radius: 20px;
+}
